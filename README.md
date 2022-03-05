@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="mailto:cyse3062@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="mailto:https://github.com/juseongjin" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/juseongjin" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
