@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="mailto:cyse3062@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="mailto:cyse3062@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Vimeo&logoColor=white"/></a>
