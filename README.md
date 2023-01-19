@@ -5,12 +5,11 @@
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML-blue?style=plastic&logo=appveyor&logoColor=E95420"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS-red?style=plastic&logo=appveyor&logoColor=E95420"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-white?style=plastic&logo=appveyor&logoColor=E95420"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-purple?style=plastic&logo=appveyor&logoColor=E95420"/></a>
+
 <br>
 <div align=center>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-white?style=plastic&logo=appveyor&logoColor=E95420"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <br>
