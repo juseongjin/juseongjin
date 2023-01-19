@@ -1,5 +1,5 @@
 ### Juseongjin
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Seongjin'sGithub&fontSize=50"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Seongjin'sGithub&fontSize=50"/> -->
 <a href="mailto:cyse3062@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://github.com/juseongjin" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juseongjin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
