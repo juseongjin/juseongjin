@@ -8,7 +8,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS-red?style=plastic&logo=appveyor&logoColor=1572B6"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-white?style=plastic&logo=appveyor&logoColor=3776AB"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-purple?style=plastic&logo=appveyor&logoColor=00599C"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/C-purple?style=plastic&logo=appveyor&logoColor=A8B9CC"/></a>
+<a href="#" target="_blank"><img src="file:///C:/Users/seongjin/Downloads/c.svg/C-purple?style=plastic&logo=appveyor&logoColor=A8B9CC"/></a>
 
 <br>
 <div align=center>
