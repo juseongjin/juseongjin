@@ -4,7 +4,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juseongjin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML-white?style=plastic&logo=appveyor&logoColor=E95420"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML-blue?style=plastic&logo=appveyor&logoColor=E95420"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
 <div align=center>
