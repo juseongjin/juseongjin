@@ -9,9 +9,6 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"></a>
-
-<br>
-<div align=center>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/linux-E95420?style=for-the-badge&logo=linux&logoColor=black"></a>
-                            
-<br>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
