@@ -8,9 +8,10 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=appveyor&logoColor=red"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=appveyor&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=appveyor&logoColor=purple"/></a>
-<a href="#" target="_blank"><img src=""https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=appveyor&logoColor=orange"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=appveyor&logoColor=orange"/></a>
 
 <br>
 <div align=center>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-white?style=plastic&logo=appveyor&logoColor=E95420"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+                            
 <br>
