@@ -5,9 +5,10 @@
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML-blue?style=plastic&logo=appveyor&logoColor=E95420"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS-red?style=plastic&logo=appveyor&logoColor=E95420"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-white?style=plastic&logo=appveyor&logoColor=E95420"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-purple?style=plastic&logo=appveyor&logoColor=E95420"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS-red?style=plastic&logo=appveyor&logoColor=1572B6"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-white?style=plastic&logo=appveyor&logoColor=3776AB"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-purple?style=plastic&logo=appveyor&logoColor=00599C"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C-purple?style=plastic&logo=appveyor&logoColor=A8B9CC"/></a>
 
 <br>
 <div align=center>
