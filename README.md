@@ -4,10 +4,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juseongjin&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/C-E95420?style=for-the-badge&logo=linux&logoColor=black"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&logo=linux&logoColor=black"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=linux&logoColor=black"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=linux&logoColor=black"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML-E95420?style=for-the-badge&logo=linux&logoColor=black"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=linux&logoColor=black"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=linux&logoColor=black"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=linux&logoColor=black"></a>
 
 <br>
